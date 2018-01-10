@@ -65,4 +65,4 @@ while True:
         break
 
     else:
-        print('\nInvalid Selection!\n Please choise a number between 1-5')
+        print('\nInvalid Selection!\n Please choise a number between 1-6')
