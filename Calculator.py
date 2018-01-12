@@ -40,8 +40,7 @@ while True:
     print('Exit?')
 
     #user input
-    choice = input('\nWhat would you like to do: ')
-    choice = choice.split()[0][0]
+    choice = input('\nWhat would you like to do: ').split()[0][0]
 
     # Choice opperations
     if choice == 'a':  # Addition
